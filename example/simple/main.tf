@@ -1,7 +1,7 @@
 module "rg_local" {
   source   = "../../"
   name     = "rg-example-local"
-  location = "eastus"
+  location = "East US"
   tags = {
     owner = "Ghansham"
     env   = "Dev"
