@@ -3,7 +3,7 @@ module "rg_local" {
   name     = "rg-example-local"
   location = "East US"
   tags = {
-    owner = "Ghansham"
+    owner = "DevOpsTerraformLabs"
     env   = "Dev"
   }
 }
@@ -13,7 +13,7 @@ module "rg_local" {
 //  name     = "rg-example-remote"
 //  location = "East US"
 //  tags = {
-//    owner = "Ghansham"
+//    owner = "DevOpsTerraformLabs"
 //    env   = "Dev"
 //  }
 //}
